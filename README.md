@@ -3,8 +3,5 @@ I am a full-stack web developer. I recently graduated from Thinkful's 6-month lo
 
 Skills: REACT / JS / HTML / CSS 
 
-- 🔭 I’m currently working on this page. 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GarrettHu1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/garretthu1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://garretthu1.github.io/Porfolio-Website/)  
 
