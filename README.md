@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Garrett Hu
-#### Full-Stack Developer
 I am a full-stack web developer. I recently graduated from Thinkful's 6-month long Engineering Immersion program, where I learned industry best practices and software development standards. I developed mobile-first full-stack applications from conception to deployment using tools like JavaScript, React, Node, Express, HTML, and CSS.
 
 Skills: REACT / JS / HTML / CSS 
